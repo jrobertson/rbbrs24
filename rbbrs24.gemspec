@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'rbbrs24'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.summary = 'Experiment with submitting Ruby code from the browser to be executed on the server. Recommended for private use only.'
   s.authors = ['James Robertson']
   s.files = Dir["lib/rbbrs24.rb"]
